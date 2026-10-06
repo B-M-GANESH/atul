@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 96" role="img" aria-label="Sri Balaji Autos, Atul Auto">
+  <g transform="translate(16,16)">
+    <rect width="64" height="64" rx="16" fill="#D0121A"/>
+    <path fill="#1A120C" d="M10 38.2C11.4 24.2 20.2 14 32 14s20.6 10.2 22 24.2V46H10V38.2z"/>
+    <path fill="#F6D48A" d="M18 36.2V28.4C20.2 22.2 25.4 18.6 32 18.6s11.8 3.6 14 9.8v7.8H18z"/>
+    <circle cx="23" cy="40.5" r="3.1" fill="#FFF4D2"/>
+    <circle cx="41" cy="40.5" r="3.1" fill="#FFF4D2"/>
+    <path fill="#1A120C" d="M14 47.5h36c0 3.4-7.2 6.5-18 6.5S14 50.9 14 47.5z"/>
+    <circle cx="32" cy="54.5" r="6" fill="none" stroke="#FBF6EE" stroke-width="2.3"/>
+    <circle cx="32" cy="54.5" r="1.7" fill="#F4B942"/>
+  </g>
+  <text x="104" y="40" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#D0121A" letter-spacing="3.2">ATUL AUTO</text>
+  <text x="104" y="74" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="800" fill="#14110E">SRI BALAJI AUTOS</text>
+</svg>
